@@ -4,7 +4,7 @@
 int main(){
     //getline write sentence with spaces
     std::string name;
-    std:: cout << "Enter your name: "  <<;
+    std:: cout << "Enter your name: " ;
     std :: getline(std::cin, name);
 
     //length
